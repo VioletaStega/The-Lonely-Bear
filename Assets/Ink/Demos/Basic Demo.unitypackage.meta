@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ff7b234789513374cb4413a04a031a5a
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60055
+  packageName: Ink Unity Integration
+  packageVersion: 1.0.0
+  assetPath: Assets/Ink/Demos/Basic Demo.unitypackage
+  uploadId: 419419
